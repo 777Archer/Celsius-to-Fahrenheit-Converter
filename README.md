@@ -1,4 +1,4 @@
-# Celsius-to-Fahrenheit-Converter
+# Instruction
 
 Write a program that converts Celsius temperatures to Fahrenheit temperatures. The formula is as follows:
 
